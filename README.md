@@ -11,7 +11,7 @@ A stupid web txt reader for Edge read aloud.
 * You can download the HTML to your local and open it with browser.
 
 **Beware**: 
-The code is really stupid. It's meanly written by ChatGPT, with some manually bug fixes from me. It's ugly(UI and code wise), but works for me.
+The code is really stupid. It's meanly written by ChatGPT, with some manually bug fixes from me. It's ugly(Both UI and Code), but works for me.
 
 PR is welcome, it's hard to make it more stupid.
 

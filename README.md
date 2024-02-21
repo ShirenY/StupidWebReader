@@ -1,4 +1,4 @@
-# StupidWebReader
+# Stupid Web Reader
 A stupid web txt reader for Edge read aloud.
 
 ### How to use:
